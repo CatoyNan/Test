@@ -4,4 +4,5 @@ public interface Discount {
 	public void Exucute();
 	//haha00///
 	//
+	//123
 }
