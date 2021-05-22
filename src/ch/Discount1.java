@@ -6,6 +6,7 @@ public class Discount1 implements Discount {
 	public void Exucute() {
 		System.out.println("");
 		// hello
+		//
 		
 	}
 
