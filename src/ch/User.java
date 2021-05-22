@@ -9,5 +9,6 @@ public class User {
 	public void SetDiscount(Discount discount)
 	{
 		this.discount=discount;
+		//helloi
 	}
 }
