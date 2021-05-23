@@ -6,4 +6,5 @@ public interface Discount {
 	//123
 	//123
 	//456
+	//788
 }
