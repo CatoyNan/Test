@@ -5,4 +5,5 @@ public interface Discount {
 	//haha00///
 	//123
 	//123
+	//456
 }
